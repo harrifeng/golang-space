@@ -22,3 +22,10 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# plugin
+src/github.com/
+bin/
+
+# tmp test always
+src/org/hfeng/tmp/test.go
